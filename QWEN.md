@@ -16,3 +16,6 @@ Use `@/openspec/AGENTS.md` to learn:
 Keep this managed block so 'openspec update' can refresh the instructions.
 
 <!-- OPENSPEC:END -->
+
+Use `bun` instead of `node`.
+Run `bun format` regularly to format code.
